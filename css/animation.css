@@ -1,0 +1,56 @@
+/* - - - - - - - - - - - - - - - - - - - - - - */
+/*				   ANIMATION				   */
+/* - - - - - - - - - - - - - - - - - - - - - - */
+
+
+/* Rotate Project */
+
+@-webkit-keyframes rotate {
+	0% { -webkit-transform: rotate(-360deg); }
+	100% { -webkit-transform: rotate(0); }
+}
+
+@-moz-keyframes rotate {
+	0% { -moz-transform: rotate(-360deg); }
+	100% { -moz-transform: rotate(0); }
+}
+
+@-ms-keyframes rotate {
+	0% { -ms-transform: rotate(-360deg); }
+	100% { -ms-transform: rotate(0); }
+}
+
+@-o-keyframes rotate {
+	0% { -o-transform: rotate(-360deg); }
+	100% { -o-transform: rotate(0); }
+}
+
+@keyframes rotate {
+	0% { transform: rotate(-360deg); }
+	100% { transform: rotate(0); }
+}
+
+@-webkit-keyframes unrotate {
+	0% { -webkit-transform: rotate(360deg); }
+	100% { -webkit-transform: rotate(0); }
+}
+
+@-moz-keyframes unrotate {
+	0% { -moz-transform: rotate(360deg); }
+	100% { -moz-transform: rotate(0); }
+}
+
+@-ms-keyframes unrotate {
+	0% { -ms-transform: rotate(360deg); }
+	100% { -ms-transform: rotate(0); }
+}
+
+@-o-keyframes unrotate {
+	0% { -o-transform: rotate(360deg); }
+	100% { -o-transform: rotate(0); }
+}
+
+@keyframes unrotate {
+	0% { transform: rotate(360deg); }
+	100% { transform: rotate(0); }
+}

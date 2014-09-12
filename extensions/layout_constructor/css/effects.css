@@ -1,0 +1,289 @@
+/* ---------------------------------------------------------------------- */
+/*	Animation
+/* ---------------------------------------------------------------------- */
+
+	/* -------------------------------------------------- */
+	/*	Scale
+	/* -------------------------------------------------- */
+
+	.scaleEffect {
+		opacity: 0;
+		-webkit-transform: scale(0.1);
+				transform: scale(0.1);
+	}
+
+	.scaleEffectRun {
+		opacity: 1;
+		-webkit-animation-name: scaleEffectRun;
+				animation-name: scaleEffectRun;
+		-webkit-animation-duration: 1s;
+				animation-duration: 1s;
+		-webkit-animation-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.275);
+				animation-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.275);
+		-webkit-transform: scale(1);
+				transform: scale(1);
+		-webkit-transition: transform .4s linear;
+				transition: transform .4s linear;
+	}
+
+	/* -------------------------------------------------- */
+	/*	Rotate
+	/* -------------------------------------------------- */
+
+	.rotateEffect {
+		opacity: 0;
+		-webkit-transform: rotate(0deg) scale(0.1);
+				transform: rotate(0deg) scale(0.1);
+	}
+
+	.rotateEffectRun {
+		opacity: 1;
+		-webkit-animation-name: rotateEffectRun;
+				animation-name: rotateEffectRun;
+		-webkit-animation-duration: 1s;
+				animation-duration: 1s;
+		-webkit-animation-timing-function: ease;
+				animation-timing-function: ease;
+		-webkit-transform: rotate(360deg) scale(1);
+				transform: rotate(360deg) scale(1);
+		-webkit-transition: transform .35s linear, opacity .35s linear;
+				transition: transform .35s linear, opacity .35s linear;
+	}
+
+	/* -------------------------------------------------- */
+	/*	Slide Right
+	/* -------------------------------------------------- */
+
+	.slideRightEffect {
+		opacity: 0;
+		-webkit-transform: translateX(-15%);
+				transform: translateX(-15%);
+	}
+
+	.slideRightEffectRun {
+		opacity: 1;
+		-webkit-animation-name: slideLeftEffectRun;
+				animation-name: slideLeftEffectRun;
+		-webkit-animation-duration: 1s;
+				animation-duration: 1s;
+		-webkit-animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+				animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+		-webkit-transform: translateX(0);
+				transform: translateX(0);
+		-webkit-transition: transform .35s linear, opacity .35s linear;
+				transition: transform .35s linear, opacity .35s linear;
+	}
+
+	/* -------------------------------------------------- */
+	/*	Slide Left
+	/* -------------------------------------------------- */
+
+	.slideLeftEffect {
+		opacity: 0;
+		-webkit-transform: translateX(15%);
+				transform: translateX(15%);
+	}
+
+	.slideLeftEffectRun {
+		opacity: 1;
+		-webkit-animation-name: slideRightEffectRun;
+				animation-name: slideRightEffectRun;
+		-webkit-animation-duration: 1s;
+				animation-duration: 1s;
+		-webkit-animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+				animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+		-webkit-transform: translateX(0);
+				transform: translateX(0);
+		-webkit-transition: transform .35s linear, opacity .35s linear;
+				transition: transform .35s linear, opacity .35s linear;
+	}	
+
+	/* -------------------------------------------------- */
+	/*	Slide Down
+	/* -------------------------------------------------- */
+
+	.slideDownEffect {
+		opacity: 0;
+		-webkit-transform: translateY(-15%);
+				transform: translateY(-15%);
+	}
+
+	.slideDownEffectRun {
+		opacity: 1;
+		-webkit-animation-name: slideDownEffectRun;
+				animation-name: slideDownEffectRun;
+		-webkit-animation-duration: 1s;
+				animation-duration: 1s;
+		-webkit-animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+				animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+		-webkit-transform: translateY(0);
+				transform: translateY(0);
+		-webkit-transition: transform .35s linear, opacity .35s linear;
+				transition: transform .35s linear, opacity .35s linear;
+	}	
+
+	/* -------------------------------------------------- */
+	/*	Slide Up
+	/* -------------------------------------------------- */
+
+	.slideUpEffect {
+		opacity: 0;
+		-webkit-transform: translateY(15%);
+				transform: translateY(15%);
+	}
+
+	.slideUpEffectRun {
+		opacity: 1;
+		-webkit-animation-name: slideUpEffectRun;
+				animation-name: slideUpEffectRun;
+		-webkit-animation-duration: 1s;
+				animation-duration: 1s;
+		-webkit-animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+				animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+		-webkit-transform: translateY(0);
+				transform: translateY(0);
+		-webkit-transition: transform .35s linear, opacity .35s linear;
+				transition: transform .35s linear, opacity .35s linear;
+	}	
+
+	/* -------------------------------------------------- */
+	/*	Other Effects
+	/* -------------------------------------------------- */
+
+	.translateEffect {
+		opacity: .1;
+		-webkit-transform: translateX(-105%);
+				transform: translateX(-105%);
+	}
+	
+	.translateEffectRun {
+		opacity: 1;
+		-webkit-transform:translateX(0);
+				transform:translateX(0);
+		-webkit-transition: transform .35s ease, opacity .35s ease;
+				transition: transform .35s ease, opacity .35s ease;
+	}	
+
+/* ---------------------------------------------------------------------- */
+/*	Function Animation
+/* ---------------------------------------------------------------------- */
+
+/* Scale */
+
+@-webkit-keyframes scaleEffectRun {
+	0% {
+		-webkit-transform: scale(0.1); opacity: 0.1;
+	}
+	100% {
+		-webkit-transform: scale(1); opacity: 1;
+	}
+}
+
+@keyframes scaleEffectRun {
+	0% {
+		transform: scale(0.1); opacity: 0.1;
+	}
+	100% {
+		transform: scale(1); opacity: 1;
+	}
+}
+
+/* Rotate */
+
+@-webkit-keyframes rotateEffectRun {
+	0% {
+		-webkit-transform: rotate(0deg) scale(0.1); opacity: 0;
+	}
+	100% {
+		-webkit-transform: rotate(360deg) scale(1); opacity: 1;
+	}
+}
+
+@keyframes rotateEffectRun {
+	0% {
+		transform: rotate(0deg) scale(0.1); opacity: 0;
+	}
+	100% {
+		transform: rotate(360deg) scale(1); opacity: 1;
+	}
+}
+
+/* SlideRight */
+
+@-webkit-keyframes slideRightEffectRun {
+	0% {
+		-webkit-transform: translateX(-15%); opacity: 0;
+	}
+	100% {
+		-webkit-transform: translateX(0); opacity: 1;
+	}
+}
+
+@keyframes slideRightEffectRun {
+	0% {
+		transform: translateX(-15%); opacity: 0;
+	}
+	100% {
+		transform: translateX(0); opacity: 1;
+	}
+}
+
+/* SlideLeft */
+
+@-webkit-keyframes slideLeftEffectRun {
+	0% {
+		-webkit-transform: translateX(15%); opacity: 0;
+	}
+	100% {
+		-webkit-transform: translateX(0); opacity: 1;
+	}
+}
+
+@keyframes slideLeftEffectRun {
+	0% {
+		transform: translateX(15%); opacity: 0;
+	}
+	100% {
+		transform: translateX(0); opacity: 1;
+	}
+}
+
+/* SlideDown */
+
+@-webkit-keyframes slideDownEffectRun {
+	0% {
+		-webkit-transform: translateY(-15%); opacity: 0;
+	}
+	100% {
+		-webkit-transform: translateY(0); opacity: 1;
+	}
+}
+
+@keyframes slideDownEffectRun {
+	0% {
+		transform: translateY(-15%); opacity: 0;
+	}
+	100% {
+		transform: translateY(0); opacity: 1;
+	}
+}
+
+/* SlideUp */
+
+@-webkit-keyframes slideUpEffectRun {
+	0% {
+		-webkit-transform: translateY(15%); opacity: 0;
+	}
+	100% {
+		-webkit-transform: translateY(0); opacity: 1;
+	}
+}
+
+@keyframes slideUpEffectRun {
+	0% {
+		transform: translateY(15%); opacity: 0;
+	}
+	100% {
+		transform: translateY(0); opacity: 1;
+	}
+}

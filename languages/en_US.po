@@ -1,0 +1,2421 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:672
+msgid "#ffffff"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1676
+msgid "(Fullscreen)"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1516
+msgid "(Grid)"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1596
+msgid "(Inline Carousel)"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/portfolio/render_gallery_item.php:99
+msgid "(Only for Folio Layout 3)"
+msgstr ""
+
+#. Text in function
+#: almera/single.php:120
+#: almera/content-default.php:125
+msgid ", "
+msgstr ""
+
+#. Text in function
+#: almera/admin/views/gallery/metabox.php:9
+msgid "3 columns"
+msgstr ""
+
+#. Text in function
+#: almera/admin/views/gallery/metabox.php:9
+msgid "4 columns"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:511
+msgid "<b>Important Notice:</b> in order to go through the one-click-demo-installation correctly please read attentively <a href=\"http://purecss.webtemplatemasters.com/one-click-demo-help\" target=\"_blank\">this information</a> and follow each step accurately."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "A link when the user mouses over it. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "A normal, visited and unvisited default button\\'s background color. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "A normal, visited and unvisited default button\\'s text color. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "A normal, visited and unvisited link color for main navigation. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "A normal, visited and unvisited link color. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "A normal, visited and unvisited link. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/custom_sidebars/draw_sidebars.php:41
+#: almera/admin/views/seo_groups/draw_groups.php:32
+#: almera/admin/views/custom_sidebars/add_sidebar.php:18
+#: almera/admin/views/seo_groups/add_group.php:22
+msgid "Add Category"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/layout_constructor/views/meta_panel.php:17
+#: almera/extensions/layout_constructor/views/meta_panel.php:84
+msgid "Add Column"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:179
+msgid "Add Form"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1749
+msgid "Add Group"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/page/post_pod_type_panel.php:117
+msgid "Add Images"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/layout_constructor/index.php:43
+msgid "Add Media"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/layout_constructor/views/meta_panel.php:3
+msgid "Add New Row"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/custom_sidebars/draw_sidebars.php:15
+#: almera/admin/views/custom_sidebars/add_sidebar.php:9
+msgid "Add Page"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:2025
+msgid "Add SEO Group"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1840
+msgid "Add Sidebar"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/gallery/metabox.php:25
+#: almera/admin/views/portfolio/gallery_meta.php:8
+msgid "Add images"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1805
+msgid "Add new Form"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/sliders/views/meta.php:3
+msgid "Add slides"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/portfolio/gallery_meta.php:9
+msgid "Add video"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/contact_form/draw_forms.php:115
+#: almera/admin/views/contact_form/draw_forms_templates.php:89
+#: almera/admin/views/contact_form/draw_forms_templates.php:154
+msgid "Additional Options"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/portfolio/render_gallery_item.php:53
+msgid "Additional options"
+msgstr ""
+
+#. Text in function
+#: almera/admin/views/widgets/google_map_form.php:87
+#: almera/admin/views/widgets/google_map_form.php:47
+msgid "Address"
+msgstr ""
+
+#. Text in function
+#: almera/admin/views/widgets/recent_posts_form.php:62
+msgid "All Categories"
+msgstr ""
+
+#. Text in function
+#: almera/extensions/layout_constructor/index.php:2
+msgid "Alpha"
+msgstr ""
+
+#. Text in echo
+#: almera/functions.php:260
+msgid "Any"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1302
+msgid "Background"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:672
+#: almera/extensions/layout_constructor/views/meta_panel.php:209
+msgid "Background Color"
+msgstr ""
+
+#. Text in function
+#: almera/extensions/layout_constructor/views/meta_panel.php:209
+msgid "Background Image"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:645
+msgid "Backgrounds"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:178
+msgid "Behance Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:183
+msgid "Behance Tooltip"
+msgstr ""
+
+#. Text in echo
+#: almera/header.php:263
+#: almera/helper/helper.php:1
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:175
+#: almera/admin/theme_options/theme_options.php:1355
+msgid "Blog/News"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:128
+msgid "Blogger Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:133
+msgid "Blogger Tooltip"
+msgstr ""
+
+#. Text in function
+#: almera/extensions/layout_constructor/views/meta_panel.php:209
+msgid "Border Color"
+msgstr ""
+
+#. Text in function
+#: almera/extensions/layout_constructor/views/meta_panel.php:209
+msgid "Border type"
+msgstr ""
+
+#. Text in function
+#: almera/extensions/layout_constructor/views/meta_panel.php:209
+msgid "Border width"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/facebook_form.php:15
+msgid "Box height"
+msgstr ""
+
+#. Text in echo
+#: almera/single-folio.php:70
+#: almera/admin/views/portfolio/credits_meta.php:104
+msgid "Brackets"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/portfolio/render_gallery_item.php:30
+#: almera/admin/theme_options/helper.php:181
+#: almera/admin/theme_options/helper.php:193
+#: almera/admin/views/page/post_pod_type_panel.php:57
+msgid "Browse"
+msgstr ""
+
+#. Text in function
+#: almera/admin/views/contact_form/draw_forms.php:44
+msgid "Button color"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:146
+msgid "Buttons"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1249
+msgid "Buttons Styling"
+msgstr ""
+
+#. Text in echo
+#: almera/single.php:111
+#: almera/content-default.php:116
+msgid "By"
+msgstr ""
+
+#. Text in echo
+#: almera/classes/custom_sidebars.php:171
+msgid "Calendar"
+msgstr ""
+
+#. Text in echo
+#: almera/single-folio.php:54
+#: almera/admin/views/portfolio/credits_meta.php:46
+msgid "Camera"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/options.php:150
+msgid "Cancel"
+msgstr ""
+
+#. Text in function
+#: almera/functions.php:264
+msgid "Cancel reply"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/portfolio/render_gallery_item.php:83
+msgid "Caption Position"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/portfolio/render_gallery_item.php:61
+msgid "Caption Style"
+msgstr ""
+
+#. Text in echo
+#: almera/classes/custom_sidebars.php:165
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+#: almera/header.php:250
+msgid "Category: %s"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/contact_form/draw_forms.php:79
+#: almera/admin/views/contact_form/draw_forms_templates.php:53
+#: almera/admin/views/contact_form/draw_forms_templates.php:118
+msgid "Choose Field Type"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/sliders/views/meta_box.php:44
+#: almera/extensions/sliders/views/meta_box.php:73
+msgid "Choose slider group"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/sliders/views/meta_box.php:26
+msgid "Click here"
+msgstr ""
+
+#. Text in echo
+#: almera/single-folio.php:45
+msgid "Client(s)"
+msgstr ""
+
+#. Text in function
+#: almera/admin/views/page/background_options.php:187
+#: almera/extensions/layout_constructor/views/meta_panel.php:209
+msgid "Color"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:532
+msgid "Color Mark"
+msgstr ""
+
+#. Text in function
+#: almera/comments.php:11
+#: almera/single.php:130
+#: almera/content-default.php:135
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:177
+#: almera/admin/theme_options/theme_options.php:1803
+msgid "Contact Forms"
+msgstr ""
+
+#. Text in function
+#: almera/admin/views/widgets/google_map_form.php:87
+msgid "Coordinates"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/portfolio/render_gallery_item.php:28
+msgid "Cover Image"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:525
+msgid "Create a new skin"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/page/post_pod_type_panel.php:92
+msgid "Create a quote for this post"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:528
+msgid "Create new skin"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:505
+msgid "Create wp meta data"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/page/post_pod_type_panel.php:112
+msgid "Create your gallery for post"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1211
+msgid "Current"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Current menu item\\'s link color for main navigation. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:672
+msgid "Custom Background Image"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:763
+msgid "Custom CSS Styles"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:195
+#: almera/admin/theme_options/theme_options.php:1838
+#: almera/admin/theme_options/theme_options.php:1847
+msgid "Custom Sidebars"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/sliders/views/meta_box.php:70
+msgid "Cuteslider's groups"
+msgstr ""
+
+#. Text in function
+#: almera/header.php:257
+msgid "Daily Archives: %s"
+msgstr ""
+
+#. Text in function
+#: almera/header.php:237
+msgid "Daily Portfolio Archives: %s"
+msgstr ""
+
+#. Text in function
+#: almera/extensions/layout_constructor/views/meta_panel.php:209
+msgid "Dashed"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:409
+msgid "Default Sidebar position"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Default button\\'s background color when the user mouses over it. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in echo
+#: almera/admin/options.php:149
+#: almera/admin/theme_options/theme_options.php:565
+#: almera/admin/theme_options/theme_options.php:1816
+#: almera/admin/theme_options/theme_options.php:1855
+#: almera/admin/theme_options/theme_options.php:2038
+#: almera/extensions/layout_constructor/views/column_item.php:27
+#: almera/extensions/layout_constructor/views/meta_panel.php:18
+#: almera/extensions/layout_constructor/views/meta_panel.php:85
+msgid "Delete"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/gallery/render_gallery_item.php:9
+#: almera/admin/views/page/draw_post_podtype_gallery_image.php:4
+#: almera/admin/views/portfolio/render_gallery_item.php:16
+msgid "Delete Item"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/sliders/views/meta_slide_item.php:19
+msgid "Delete Slide"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:148
+msgid "Delicious Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:153
+msgid "Delicious Tooltip"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/gallery/render_gallery_item.php:39
+msgid "Description"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Description - about 150 - 200 characters"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+#: almera/admin/views/page/seo_options.php:31
+msgid "Description - about 150-200 characters"
+msgstr ""
+
+#. Text in echo
+#: almera/footer.php:34
+#: almera/footer-folio.php:29
+msgid "Developed by"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:198
+msgid "Digg Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:203
+msgid "Digg Tooltip"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Disable Breadcrumbs"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Disable Default Image Media Settings"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/recent_posts_form.php:69
+msgid "Display \"View all\" button"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/recent_posts_form.php:52
+msgid "Display Excerpt"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/google_map_form.php:109
+msgid "Display Marker"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/recent_posts_form.php:41
+msgid "Display Thumbnail"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/recent_projects_form.php:42
+msgid "Display Title"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/google_map_form.php:120
+msgid "Display popup"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/google_map_form.php:131
+msgid "Display scrollwheel"
+msgstr ""
+
+#. Text in function
+#: almera/extensions/layout_constructor/views/meta_panel.php:209
+msgid "Dotted"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:28
+#: almera/admin/theme_options/theme_options.php:350
+msgid "Dribbble Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:33
+msgid "Dribbble Tooltip"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/staff/credits_meta.php:34
+msgid "Dribble"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:98
+msgid "Dropbox Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:103
+msgid "Dropbox Tooltip"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/options.php:148
+#: almera/admin/theme_options/theme_options.php:1817
+#: almera/admin/theme_options/theme_options.php:1856
+#: almera/admin/theme_options/theme_options.php:2039
+#: almera/extensions/layout_constructor/views/column_item.php:26
+#: almera/extensions/layout_constructor/views/meta_panel.php:18
+#: almera/extensions/layout_constructor/views/meta_panel.php:85
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/sliders/views/meta_slide_item.php:16
+msgid "Edit Image"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/portfolio/render_gallery_item.php:15
+msgid "Edit item title"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/gallery/render_gallery_item.php:8
+msgid "Edit item title and description"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:584
+msgid "Elements"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/contact_info_form.php:8
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: almera/extensions/layout_constructor/views/column_item.php:13
+#: almera/extensions/layout_constructor/index.php:44
+msgid "Empty"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2
+#: almera/admin/views/contact_form/draw_forms.php:32
+#: almera/admin/views/contact_form/draw_forms_templates.php:12
+msgid "Enable Captcha"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Enter the Dribbble Link"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Enter the Facebook Link"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Enter the Rss Feed"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Enter the Twitter Link"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Enter the Vimeo Link"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Enter the Youtube Link"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Enter your full FeedBurner URL (or any other preferred feed URL) if you wish to use FeedBurner over the standard WordPress Feed."
+msgstr ""
+
+#. Text in echo
+#: almera/single-folio.php:76
+#: almera/admin/views/portfolio/credits_meta.php:126
+msgid "Etc."
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:168
+msgid "Evernote Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:173
+msgid "Evernote Tooltip"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1358
+msgid "Excerpt Symbols Count"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/recent_posts_form.php:57
+msgid "Excerpt symbols count"
+msgstr ""
+
+#. Text in echo
+#: almera/single-folio.php:67
+#: almera/admin/views/portfolio/credits_meta.php:93
+msgid "Exposure"
+msgstr ""
+
+#. Text in echo
+#: almera/single-folio.php:64
+#: almera/admin/views/portfolio/credits_meta.php:82
+msgid "FL"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/staff/credits_meta.php:22
+msgid "Facebook"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:18
+#: almera/admin/theme_options/theme_options.php:339
+msgid "Facebook Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/facebook_form.php:7
+msgid "Facebook Page ID"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:23
+msgid "Facebook Tooltip"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:463
+msgid "FeedBurner URL"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2
+#: almera/admin/views/contact_form/draw_forms.php:91
+#: almera/admin/views/contact_form/draw_forms_templates.php:65
+#: almera/admin/views/contact_form/draw_forms_templates.php:130
+msgid "Field Label"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2
+msgid "Field Type"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1137
+msgid "First Level\\'s Font Size"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:138
+msgid "Flickr Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:143
+msgid "Flickr Tooltip"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/flickr_form.php:8
+msgid "Flickr Username"
+msgstr ""
+
+#. Text in function
+#: almera/header.php:228
+msgid "Folios by Categories: %s"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1090
+msgid "Font Color"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1251
+msgid "Font Family"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1261
+msgid "Font Size"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:226
+#: almera/admin/theme_options/theme_options.php:2057
+msgid "Footer"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/page/background_options.php:183
+msgid "Footer Background"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:2059
+msgid "Footer text"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/portfolio/render_gallery_item.php:24
+msgid "For multiline text use ^ symbol (Win: SHIFT+6)"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/contact_form_form.php:8
+msgid "Form"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2
+msgid "Form Title"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/gallery/metabox.php:7
+msgid "Gallery Layout:"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1987
+msgid "Gallery listing"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:138
+#: almera/admin/theme_options/theme_options.php:143
+#: almera/admin/theme_options/theme_options.php:197
+#: almera/admin/theme_options/theme_options.php:213
+msgid "General"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:235
+msgid "General Settings"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1250
+msgid "General Styles"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:520
+#: almera/admin/theme_options/theme_options.php:1126
+msgid "General Styling"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "General buttons font size in pixels. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:741
+msgid "General website background color behind your pattern image. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:672
+msgid "General website background. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "General website elements color(Such elements like icons, some backgrounds etc.). Do not edit this field to use default theme styling.<br><b>Notice:</b> All the styles below may override this color if necessary."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "General website font size in pixels. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:672
+msgid "General website footer background color (The bottom area where is copyright info located). Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:672
+msgid "General website header background color (The top area where is logo located). Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "General website normal links color. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "General website text color. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in echo
+#: almera/404.php:20
+msgid "Get Me Back to Homepage"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:58
+msgid "Google Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:188
+msgid "Google Plus Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:63
+msgid "Google Tooltip"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:193
+msgid "Goole Plus Tooltip"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:777
+msgid "H1 Heading"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "H1 heading cont color. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "H1 heading font size in pixels. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:835
+msgid "H2 Heading"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "H2 heading cont color. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "H2 heading font size in pixels. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:893
+msgid "H3 Heading"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "H3 heading cont color. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "H3 heading font size in pixels. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:951
+msgid "H4 Heading"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "H4 heading cont color. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "H4 heading font size in pixels. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1009
+msgid "H5 Heading"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "H5 heading cont color. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "H5 heading font size in pixels. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1067
+msgid "H6 Heading"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "H6 heading cont color. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "H6 heading font size in pixels. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/views/widgets/google_map_form.php:87
+msgid "HYBRID"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/portfolio/credits_meta.php:74
+msgid "Handheld"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/facebook_form.php:27
+msgid "Header"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/page/background_options.php:28
+msgid "Header Background"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:144
+msgid "Headings"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:776
+msgid "Headings Styling"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/google_map_form.php:14
+msgid "Height"
+msgstr ""
+
+#. Text in function
+#: almera/admin/views/page/background_options.php:187
+msgid "Hide"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:570
+msgid "Hide Options panel"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Hide Social Links"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:570
+msgid "Hide Theme Options sliding panel from Front End"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Hide single folio metadata"
+msgstr ""
+
+#. Text in echo
+#: almera/helper/helper.php:1
+#: almera/functions.php:261
+msgid "Home"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1516
+#: almera/admin/theme_options/theme_options.php:1596
+#: almera/admin/theme_options/theme_options.php:1676
+msgid "Home Template"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1902
+msgid "Home page meta description"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1889
+msgid "Home page meta keywords"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1876
+msgid "Home page meta title"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "If checked, all the images you upload will not be cropped to default wordpress images sizes. We recommend to leave it as \"checked\"."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "If checked, all the meta info will disappear under article title such as date, author, tags etc. This option will owerride the next separate four options."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "If checked, all the visitors will be allowed to post their comments to articles."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "If checked, the author info will appear under article title."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "If checked, the breadcrumbs area will be disabled for all the website."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "If checked, the category info will appear under article title."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "If checked, the date info will appear under article title."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "If checked, the social links area will be hidden for all the website."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "If checked, the tags info will appear under article title."
+msgstr ""
+
+#. Text in function
+#: almera/admin/views/widgets/google_map_form.php:87
+#: almera/admin/theme_options/theme_options.php:258
+#: almera/admin/views/page/background_options.php:187
+#: almera/extensions/layout_constructor/views/meta_panel.php:209
+msgid "Image"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:78
+msgid "Instagram Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:83
+msgid "Instagram Tooltip"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:504
+msgid "Install"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:475
+msgid "Item Purchase Code"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Item purchase code. It will be used for future free theme updates."
+msgstr ""
+
+#. Text in function
+#: almera/helper/helper.php:1
+msgid "January"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+#: almera/admin/views/page/seo_options.php:20
+msgid "Keywords - up to 250 characters"
+msgstr ""
+
+#. Text in echo
+#: almera/404.php:18
+msgid "LOOKING For"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/google_map_form.php:35
+msgid "Latitude"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/sliders/views/meta_box.php:41
+msgid "Layerslider's groups"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Layout 1"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Layout 2"
+msgstr ""
+
+#. Text in function
+#: almera/extensions/layout_constructor/views/meta_panel.php:102
+#: almera/extensions/layout_constructor/index.php:2
+msgid "Layout constructor"
+msgstr ""
+
+#. Text in function
+#: almera/functions.php:264
+msgid "Leave a Comment"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:417
+#: almera/admin/views/page/background_options.php:270
+msgid "Left Sidebar"
+msgstr ""
+
+#. Text in echo
+#: almera/single-folio.php:57
+#: almera/admin/views/portfolio/credits_meta.php:57
+msgid "Lens"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:108
+msgid "LinkedIn Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:113
+msgid "LinkedIn Tooltip"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1163
+msgid "Links Color (First level)"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1199
+msgid "Links Color (Second level)"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1356
+msgid "Listing Page"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:561
+msgid "Load"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:547
+msgid "Load Skin From"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/options.php:152
+msgid "Loading"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/google_map_form.php:19
+msgid "Location Mode"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:301
+msgid "Logo Font Family"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:311
+msgid "Logo Text Color"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:672
+msgid "Logo text color for text logo only. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/google_map_form.php:40
+msgid "Longitude"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:145
+msgid "Main Navigation"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Main navigation first level\\'s font size in pixels. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Main navigation seconds level\\'s font size in pixels. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: almera/admin/views/widgets/google_map_form.php:87
+msgid "Map"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/google_map_form.php:85
+msgid "Map type"
+msgstr ""
+
+#. Text in echo
+#: almera/classes/custom_sidebars.php:176
+msgid "Meta"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1442
+msgid "Meta Data"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/seo_groups/draw_groups.php:22
+#: almera/admin/theme_options/theme_options.php:2010
+#: almera/admin/views/seo_groups/add_group.php:14
+#: almera/admin/views/page/seo_options.php:30
+msgid "Meta description"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/seo_groups/draw_groups.php:19
+#: almera/admin/theme_options/theme_options.php:1999
+#: almera/admin/views/seo_groups/add_group.php:11
+#: almera/admin/views/page/seo_options.php:19
+msgid "Meta keywords"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/seo_groups/draw_groups.php:16
+#: almera/admin/theme_options/theme_options.php:1989
+#: almera/admin/views/seo_groups/add_group.php:8
+#: almera/admin/views/page/seo_options.php:8
+msgid "Meta title"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/google_map_form.php:54
+msgid "Mode"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:563
+msgid "Modify"
+msgstr ""
+
+#. Text in function
+#: almera/header.php:259
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#. Text in function
+#: almera/header.php:239
+msgid "Monthly Portfolio Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1222
+msgid "Mouseover"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1300
+msgid "Mouseover Color Styles"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1112
+msgid "Mouseover Link Color"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:208
+msgid "Myspace Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:213
+msgid "Myspace Tooltip"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1235
+msgid "Navigation Line Color"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1125
+msgid "Navigation Styling"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Navigation lava lamp line color"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:672
+msgid "New skin name"
+msgstr ""
+
+#. Text in function
+#: almera/classes/custom_sidebars.php:2
+msgid "No categories"
+msgstr ""
+
+#. Text in function
+#: almera/extensions/layout_constructor/index.php:2
+msgid "No classes"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:1725
+msgid "No items"
+msgstr ""
+
+#. Text in function
+#: almera/classes/custom_sidebars.php:2
+msgid "No pages"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1200
+msgid "Normal"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1275
+msgid "Normal Color Styles"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1328
+msgid "Normal Link Color"
+msgstr ""
+
+#. Text in echo
+#: almera/content-nothingfound.php:4
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/seo_groups/draw_groups.php:68
+#: almera/admin/views/seo_groups/add_group.php:31
+msgid "Notice: One SEO group can be used only once per category. In other case it would be used for category as it was picked at first time for category."
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/flickr_form.php:13
+msgid "Number of images"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/latest_tweets_form.php:13
+msgid "Number of tweets"
+msgstr ""
+
+#. Text in function
+#: almera/extensions/layout_constructor/index.php:2
+msgid "Omega"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:499
+msgid "One Click Demo Data Install"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/options.php:151
+msgid "One moment"
+msgstr ""
+
+#. Text in echo
+#: almera/404.php:7
+msgid "Ooops"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/page/background_options.php:241
+msgid "Opacity"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/contact_form/draw_forms.php:103
+#: almera/admin/views/contact_form/draw_forms_templates.php:77
+#: almera/admin/views/contact_form/draw_forms_templates.php:142
+msgid "Options (comma separated)"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/page/background_options.php:115
+msgid "Page Background"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1768
+msgid "Page Layout"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/page/background_options.php:266
+msgid "Page Sidebar Position"
+msgstr ""
+
+#. Text in echo
+#: almera/header.php:203
+msgid "Page not Found"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/demo_import/index.php:16
+msgid "Page reloading ..."
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1503
+msgid "Page templates"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/page/background_options.php:6
+msgid "Page title"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:728
+msgid "Pattern Background Color"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:672
+msgid "Patterns"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/facebook_form.php:11
+msgid "People to show"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/contact_info_form.php:13
+msgid "Phone"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:68
+msgid "Picasa Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:73
+msgid "Picasa Tooltip"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:118
+msgid "Pinterest Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:123
+msgid "Pinterest Tooltip"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/page/post_pod_type_panel.php:72
+msgid "Place here a link for this post like http://site.com/"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Place here your Google Analytics (or other) tracking code. It will be inserted before closing body tag in your theme."
+msgstr ""
+
+#. Text in echo
+#: almera/functions.php:257
+msgid "Please enter correct"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/google_map_form.php:136
+msgid "Popup text"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:176
+#: almera/admin/theme_options/theme_options.php:1501
+msgid "Portfolio"
+msgstr ""
+
+#. Text in echo
+#: almera/header.php:243
+msgid "Portfolio Archives"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/portfolio/credits_meta.php:19
+msgid "Portfolio clients"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1951
+msgid "Portfolio listing"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/portfolio/credits_meta.php:30
+msgid "Portfolio tools"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/testimonials/credits_meta.php:9
+msgid "Position"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/recent_projects_form.php:8
+#: almera/admin/views/widgets/recent_posts_form.php:29
+msgid "Post Number"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/recent_posts_form.php:8
+msgid "Posts Category"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1915
+msgid "Posts listing/Blog page"
+msgstr ""
+
+#. Text in echo
+#: almera/single-folio.php:73
+#: almera/admin/views/portfolio/credits_meta.php:115
+msgid "Processed"
+msgstr ""
+
+#. Text in function
+#: almera/admin/views/widgets/google_map_form.php:87
+msgid "ROADMAP"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:230
+msgid "RSS Tooltip"
+msgstr ""
+
+#. Text in echo
+#: almera/content-default.php:171
+msgid "Read More"
+msgstr ""
+
+#. Text in echo
+#: almera/single-gall.php:44
+msgid "Recent Galleries"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/contact_form/draw_forms.php:57
+#: almera/admin/views/contact_form/draw_forms_templates.php:35
+msgid "Recipient\\'s e-mail field:"
+msgstr ""
+
+#. Text in echo
+#: almera/single-folio.php:101
+msgid "Related Works"
+msgstr ""
+
+#. Text in echo
+#: almera/single-folio.php:42
+msgid "Release"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/portfolio/credits_meta.php:8
+msgid "Release Date"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1713
+#: almera/admin/theme_options/theme_options.php:1741
+msgid "Remove"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/custom_sidebars/draw_sidebars.php:68
+#: almera/admin/views/custom_sidebars/add_sidebar.php:28
+msgid "Remove Sidebar"
+msgstr ""
+
+#. Text in function
+#: almera/functions.php:313
+msgid "Reply"
+msgstr ""
+
+#. Text in function
+#: almera/admin/views/contact_form/draw_forms.php:117
+#: almera/admin/views/contact_form/draw_forms_templates.php:91
+#: almera/admin/views/contact_form/draw_forms_templates.php:156
+msgid "Required Field"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/page/background_options.php:107
+#: almera/admin/views/page/background_options.php:175
+#: almera/admin/views/page/background_options.php:259
+msgid "Reset"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:128
+#: almera/admin/theme_options/theme_options.php:2073
+msgid "Reset All Options"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:419
+#: almera/admin/views/page/background_options.php:272
+msgid "Right Sidebar"
+msgstr ""
+
+#. Text in function
+#: almera/extensions/layout_constructor/views/meta_panel.php:209
+msgid "Row Background Type"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/layout_constructor/views/meta_panel.php:47
+#: almera/extensions/layout_constructor/views/meta_panel.php:90
+msgid "Row Mover"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:383
+msgid "Rss Link"
+msgstr ""
+
+#. Text in function
+#: almera/admin/views/widgets/google_map_form.php:87
+msgid "SATELLITE"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:214
+#: almera/admin/theme_options/theme_options.php:2029
+msgid "SEO Groups"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:211
+msgid "SEO Tools"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+#: almera/admin/views/page/seo_options.php:9
+msgid "SEO title of page. Title - 50-80 characters (usually - 75)"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:129
+#: almera/admin/theme_options/theme_options.php:2074
+msgid "Save All Changes"
+msgstr ""
+
+#. Text in echo
+#: almera/searchform.php:7
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: almera/header.php:215
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1149
+msgid "Second Level\\'s Font Size"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/recent_posts.php:70
+#: almera/admin/views/widgets/recent_posts.php:72
+msgid "See all posts"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/recent_projects.php:70
+msgid "See all projects"
+msgstr ""
+
+#. Text in function
+#: almera/admin/views/contact_form/draw_forms_templates.php:66
+msgid "Select Submit Button\\'s color"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/testimonials_form.php:8
+msgid "Select Testimonial"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/contact_form/draw_forms.php:41
+#: almera/admin/views/contact_form/draw_forms_templates.php:21
+msgid "Select submit button"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1874
+msgid "Seo Tools"
+msgstr ""
+
+#. Text in echo
+#: almera/functions.php:259
+msgid "Server failed. Send later"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/page/background_options.php:214
+msgid "Set options"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/page/post_pod_type_panel.php:32
+msgid "Set up a video for this post"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/page/post_pod_type_panel.php:51
+msgid "Set up an audio for this post"
+msgstr ""
+
+#. Text in function
+#: almera/admin/views/page/background_options.php:187
+msgid "Show"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/recent_projects_form.php:31
+msgid "Show Exerpt"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:225
+msgid "Show RSS Link"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Show Related"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Show Related Works"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/recent_projects_form.php:58
+msgid "Show button"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Show categories bar"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/testimonials_form.php:25
+msgid "Show latest testimonial"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/testimonials_form.php:22
+msgid "Show random testimonials"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/testimonials_form.php:19
+msgid "Show selected testimonial"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/recent_projects_form.php:20
+msgid "Show thumbnail"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Show/Hide All Meta Info"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Show/Hide Author Info"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Show/Hide Category Info"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Show/Hide Comments"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Show/Hide Date Info"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Show/Hide Tags Info"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1316
+msgid "Sidebar Widgets"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1753
+msgid "Single Page"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Single page layout type."
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:521
+msgid "Skin Composer"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:88
+msgid "Skype Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:93
+msgid "Skype Tooltip"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/sliders/views/sliders_options.php:14
+msgid "Slider Settings"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/sliders/views/meta_box.php:15
+msgid "Slider group"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/sliders/views/meta_box.php:3
+msgid "Slider type"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:159
+msgid "Sliders Settings"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:326
+msgid "Social Links"
+msgstr ""
+
+#. Text in function
+#: almera/extensions/layout_constructor/views/meta_panel.php:209
+msgid "Solid"
+msgstr ""
+
+#. Text in echo
+#: almera/content-nothingfound.php:8
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:141
+msgid "Styling"
+msgstr ""
+
+#. Text in function
+#: almera/functions.php:264
+msgid "Submit"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/sliders/views/sliders_options.php:23
+msgid "Such option type does not exist!"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/layout_constructor/index.php:41
+msgid "Sure about column deleting?"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/layout_constructor/index.php:42
+msgid "Sure about row deleting?"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/demo_import/index.php:15
+msgid "Sure? Current data base will be fully erased!!"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/recent_projects_form.php:46
+msgid "Symbols count"
+msgstr ""
+
+#. Text in function
+#: almera/admin/views/widgets/google_map_form.php:87
+msgid "TERRAIN"
+msgstr ""
+
+#. Text in function
+#: almera/header.php:219
+msgid "Tag Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:259
+#: almera/admin/theme_options/theme_options.php:598
+#: almera/admin/theme_options/theme_options.php:1276
+msgid "Text"
+msgstr ""
+
+#. Text in function
+#: almera/admin/options.php:2
+msgid "Theme Options"
+msgstr ""
+
+#. Text in function
+#: almera/functions.php:2
+msgid "Thememakers Default Sidebar"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "This option will excerpt full article content with a necessary amount of symbols on the blog listing page."
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/testimonials_form.php:30
+msgid "Timeout"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/contact_info_form.php:3
+#: almera/admin/views/widgets/social_links_form.php:3
+#: almera/admin/views/widgets/google_map_form.php:4
+#: almera/admin/views/gallery/render_gallery_item.php:34
+#: almera/admin/views/widgets/latest_tweets_form.php:3
+#: almera/admin/views/widgets/testimonials_form.php:3
+#: almera/admin/views/portfolio/render_gallery_item.php:22
+#: almera/admin/views/widgets/facebook_form.php:3
+#: almera/admin/views/widgets/recent_projects_form.php:3
+#: almera/admin/views/widgets/flickr_form.php:3
+#: almera/admin/views/widgets/recent_posts_form.php:3
+#: almera/admin/views/widgets/contact_form_form.php:3
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1317
+msgid "Title Color"
+msgstr ""
+
+#. Text in echo
+#: almera/single-folio.php:48
+msgid "Tools"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:450
+msgid "Tracking Code"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/portfolio/credits_meta.php:75
+msgid "Tripod"
+msgstr ""
+
+#. Text in echo
+#: almera/single-folio.php:60
+#: almera/admin/views/portfolio/credits_meta.php:68
+msgid "Tripod or handheld"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/staff/credits_meta.php:10
+msgid "Twitter"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:8
+#: almera/admin/theme_options/theme_options.php:328
+msgid "Twitter Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:13
+msgid "Twitter Tooltip"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/latest_tweets_form.php:8
+msgid "Twitter Widget ID"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:672
+msgid "Type your website name here, it will appear instead of your Logo in text format."
+msgstr ""
+
+#. Text in function
+#: almera/helper/helper.php:1
+msgid "Uncategorized"
+msgstr ""
+
+#. Text in echo
+#: almera/helper/helper.php:661
+#: almera/admin/views/page/background_options.php:209
+#: almera/admin/views/page/background_options.php:141
+msgid "Upload"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Upload your favicon here. It will appear in your browser\\'s address bar as per example below. Recommended dimensions: 16x16. Recommended image types: png, ico."
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:672
+msgid "Upload your logo image here. Recommended dimensions: width <= 300px, height = any. Recommended image types: png, gif, jpg."
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:123
+msgid "View Theme Docs"
+msgstr ""
+
+#. Text in function
+#: almera/helper/helper.php:1
+msgid "View all posts in %s"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:38
+#: almera/admin/theme_options/theme_options.php:361
+msgid "Vimeo Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:43
+msgid "Vimeo Tooltip"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:124
+msgid "Visit Forum"
+msgstr ""
+
+#. Text in echo
+#: almera/404.php:13
+msgid "We Can\\'t Find"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:671
+msgid "Website Background"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:585
+msgid "Website Elements Color"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:238
+msgid "Website Favicon"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:599
+msgid "Website Font Family"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:609
+msgid "Website Font Size"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:660
+msgid "Website Footer Background"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:649
+msgid "Website Header Background"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:255
+msgid "Website Logo"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:237
+msgid "Website Logo &amp; Favicon"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:632
+msgid "Website Normal Links Color"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:621
+msgid "Website Text Color"
+msgstr ""
+
+#. Text in function
+#: almera/admin/theme_options/theme_options.php:2060
+msgid "Widget\\'s title text color. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:147
+msgid "Widgets"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1315
+msgid "Widgets Styling"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/google_map_form.php:9
+msgid "Width"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:418
+#: almera/admin/views/page/background_options.php:271
+msgid "Without Sidebar"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:158
+msgid "Yahoo Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:163
+msgid "Yahoo Tooltip"
+msgstr ""
+
+#. Text in function
+#: almera/header.php:261
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#. Text in function
+#: almera/header.php:241
+msgid "Yearly Portfolio Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/contact_form_form.php:23
+msgid "You can create a contact form from Theme Options->Contact Forms"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:2044
+msgid "You have not created any group yet. Please create one using the form above."
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1860
+msgid "You have not created any sidebar group yet. Please create one using the form above."
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/sliders/views/meta_box.php:80
+msgid "You still haven't created any slider group for your Cuteslider."
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/sliders/views/meta_box.php:51
+msgid "You still haven't created any slider group for your Layerslider."
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/sliders/views/meta_box.php:26
+msgid "You still haven't created any slider group."
+msgstr ""
+
+#. Text in echo
+#: almera/404.php:17
+msgid "You\\'re"
+msgstr ""
+
+#. Text in echo
+#: almera/functions.php:258
+msgid "Your message has been sent successfully!"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:48
+#: almera/admin/theme_options/theme_options.php:372
+msgid "Youtube Link"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/social_links_form.php:53
+msgid "Youtube Tooltip"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/widgets/google_map_form.php:69
+msgid "Zoom"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/portfolio/credits_meta.php:74
+msgid "handheld"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/gallery/render_gallery_item.php:4
+msgid "media item"
+msgstr ""
+
+#. Text in echo
+#: almera/extensions/sliders/views/meta_box.php:26
+msgid "to create one."
+msgstr ""
+
+#. Text in echo
+#: almera/admin/views/portfolio/credits_meta.php:75
+msgid "tripod"
+msgstr ""
+
+#. Text in echo
+#: almera/admin/theme_options/theme_options.php:1842
+#: almera/admin/theme_options/theme_options.php:2026
+msgid "type title here"
+msgstr ""
+
+#. Text in echo
+#: almera/404.php:14
+msgid "what"
+msgstr ""

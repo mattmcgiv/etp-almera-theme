@@ -1,0 +1,322 @@
+
+/* #Font-Face
+================================================== */
+/* 	This is the proper syntax for an @font-face file
+		Just create a "fonts" folder at the root,
+		copy your FontName into code below and remove
+		comment brackets */
+
+@font-face {
+    font-family: 'WebSymbolsRegular';
+    src: url('../fonts/WebSymbols-Regular-webfont.eot');
+    src: url('../fonts/WebSymbols-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/WebSymbols-Regular-webfont.woff') format('woff'),
+         url('../fonts/WebSymbols-Regular-webfont.ttf') format('truetype'),
+         url('../fonts/WebSymbols-Regular-webfont.svg#WebSymbolsRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'heydings_iconsregular';
+    src: url('../fonts/heydings_icons-webfont.eot');
+    src: url('../fonts/heydings_icons-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/heydings_icons-webfont.woff') format('woff'),
+         url('../fonts/heydings_icons-webfont.ttf') format('truetype'),
+         url('../fonts/heydings_icons-webfont.svg#heydings_iconsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* #Font Family Icons
+================================================== */
+/* 	Designed for embedding in websites and web extensions using CSS3's @font-face. 
+	More about using the font in your projects at http://www.heydonworks.com/a-free-icon-web-font 
+*/
+
+	[class^="main-pic-"],
+	[class*=" main-pic-"] {
+		display: inline-block;
+		color: #000;
+		font-weight: normal;
+		font-style: normal;
+		font-size: 45px;
+		vertical-align: middle;
+		font-family: 'heydings_iconsregular';
+	}
+	
+/*	[class^="main-pic-"]:before,
+	[class*=" main-pic-"]:before { vertical-align: middle; }*/
+
+	[class^="web-pic-"],
+	[class*=" web-pic-"] {
+		display: inline-block;
+		color: #000;
+		font-weight: normal;
+		font-style: normal;
+		font-size: 36px;
+		font-family: 'WebSymbolsRegular';
+	}
+	
+	[class^="circle-pic-"],
+	[class*=" circle-pic"] {
+		display: inline-block;
+		width: 36px;
+		height: 36px;
+		-webkit-border-radius: 50%;
+		   -moz-border-radius: 50%;
+				border-radius: 50%;
+		background-color: #000;
+		color: #eaeaea;
+		vertical-align: middle;
+		text-align: center;
+		text-shadow: none;
+		font-weight: 400;
+		font-style: normal;
+		font-size: 20px;
+		font-family: 'heydings_iconsregular';
+		line-height: 36px;
+		line-height: 1.75;
+	}
+	
+	[class^="main-pic-"],
+	[class*=" main-pic-"],
+	[class^="web-pic-"], 
+	[class*=" web-pic-"],
+	[class^="circle-pic-"],
+	[class*=" circle-pic"]
+	{
+		-webkit-transition: all .25s linear;	
+		   -moz-transition: all .25s linear;	
+			-ms-transition: all .25s linear;	
+			 -o-transition: all .25s linear;	
+				transition: all .25s linear;	
+	}
+	
+		/* Web Pic WebSymbols */
+		
+		.web-pic-attachment:before			{ content: "A"; }
+		.web-pic-rainbow:before				{ content: "B"; }
+		.web-pic-cloud:before				{ content: "C"; }
+		.web-pic-window:before				{ content: "D"; }
+		.web-pic-file:before				{ content: "F"; }
+		.web-pic-course:before				{ content: "H"; }
+		.web-pic-image:before				{ content: "I"; }
+		.web-pic-repeat:before				{ content: "J"; }
+		.web-pic-link:before				{ content: "K"; }
+		.web-pic-loupe:before				{ content: "L"; }
+		.web-pic-movie:before				{ content: "M"; }
+		.web-pic-filllike:before			{ content: "N"; }
+		.web-pic-like:before				{ content: "O"; }
+		.web-pic-time:before				{ content: "P"; }
+		.web-pic-star:before				{ content: "R"; }
+		.web-pic-skill:before				{ content: "S"; }
+		.web-pic-character:before			{ content: "T"; }
+		.web-pic-man:before					{ content: "U"; }
+		.web-pic-reset:before				{ content: "V"; }
+		.web-pic-attention:before			{ content: "W"; }
+		.web-pic-out:before					{ content: "X"; }
+		.web-pic-zip:before					{ content: "Z"; }
+		
+		.web-pic-book:before				{ content: "a"; }
+		.web-pic-album:before				{ content: "b"; }
+		.web-pic-quote:before				{ content: "c"; }
+		.web-pic-though:before				{ content: "d"; }
+		.web-pic-mind:before				{ content: "e"; }
+		.web-pic-fb:before					{ content: "f"; }
+		.web-pic-google:before				{ content: "g"; }
+		.web-pic-back:before				{ content: "h"; }
+		.web-pic-home:before				{ content: "i"; }
+		.web-pic-next:before				{ content: "j"; }
+		.web-pic-twitter:before				{ content: "t"; }
+		.web-pic-linkedin:before			{ content: "i"; }
+		.web-pic-vimeo:before				{ content: "m"; }
+		.web-pic-rss:before					{ content: "r"; }
+		.web-pic-skype:before				{ content: "s"; }
+		.web-pic-tweet:before				{ content: "t"; }
+		.web-pic-chart:before				{ content: "u"; }
+		.web-pic-open:before				{ content: "w"; }
+		.web-pic-youtube:before				{ content: "y"; }
+		
+		.web-pic-resize:before				{ content: "&"; }
+		.web-pic-left:before				{ content: "("; }
+		.web-pic-right:before				{ content: ")"; }
+		.web-pic-plus:before				{ content: "+"; }
+		.web-pic-stop:before				{ content: "-"; }
+		
+		/* Main Pic Heydings */
+		
+		.main-pic-man:before				{ content: "A"; }
+		.main-pic-tape:before				{ content: "B"; }
+		.main-pic-cogwheel:before			{ content: "C"; }
+		.main-pic-page:before				{ content: "D"; }
+		.main-pic-letter:before				{ content: "E"; }
+		.main-pic-box:before				{ content: "F"; }
+		.main-pic-tools:before				{ content: "G"; }
+		.main-pic-home:before				{ content: "H"; }
+		.main-pic-picture:before			{ content: "I"; }
+		.main-pic-list:before				{ content: "J"; }
+		.main-pic-key:before				{ content: "K"; }
+		.main-pic-lock:before				{ content: "L"; }
+		.main-pic-magnifier:before			{ content: "M"; }
+		.main-pic-compass:before			{ content: "N"; }
+		.main-pic-mark:before				{ content: "O"; }
+		.main-pic-location:before			{ content: "P"; }
+		.main-pic-question:before			{ content: "Q"; }
+		.main-pic-rainbow:before			{ content: "R"; }
+		.main-pic-basket:before				{ content: "S"; }
+		.main-pic-time:before				{ content: "T"; }
+		.main-pic-calc:before				{ content: "U"; }
+		.main-pic-cinema:before				{ content: "V"; }
+		.main-pic-balance:before			{ content: "W"; }
+		.main-pic-close:before				{ content: "X"; }
+		.main-pic-doc:before				{ content: "Y"; }
+		.main-pic-zip:before				{ content: "Z"; }
+		
+		.main-pic-chain:before				{ content: "a"; }
+		.main-pic-thought:before			{ content: "b"; }
+		.main-pic-calendar:before			{ content: "c"; }
+		.main-pic-down:before				{ content: "d"; }
+		.main-pic-out:before				{ content: "e"; }
+		.main-pic-flag:before				{ content: "f"; }
+		.main-pic-hierarchy:before			{ content: "g"; }
+		.main-pic-heart:before				{ content: "h"; }
+		.main-pic-inform:before				{ content: "i"; }
+		.main-pic-build:before				{ content: "k"; }
+		.main-pic-lamp:before				{ content: "l"; }
+		.main-pic-speaker:before			{ content: "m"; }
+		.main-pic-navigator:before			{ content: "n"; }
+		.main-pic-observ:before				{ content: "o"; }
+		.main-pic-print:before				{ content: "p"; }
+		.main-pic-consult:before			{ content: "q"; }
+		.main-pic-zipper:before				{ content: "r"; }
+		.main-pic-star:before				{ content: "s"; }
+		.main-pic-label:before				{ content: "t"; }
+		.main-pic-up:before					{ content: "u"; }
+		.main-pic-chart:before				{ content: "v"; }
+		.main-pic-write:before				{ content: "w"; }
+		.main-pic-smile:before				{ content: "y"; }
+		
+		.main-pic-pie:before				{ content: "1"; }
+		.main-pic-unlike:before				{ content: "2"; }
+		.main-pic-net:before				{ content: "3"; }
+		.main-pic-float:before				{ content: "4"; }
+		.main-pic-archive:before			{ content: "5"; }
+		.main-pic-like:before				{ content: "8"; }
+		.main-pic-plus:before				{ content: "+"; }
+		.main-pic-minus:before				{ content: "-"; }
+		.main-pic-asterisk:before			{ content: "*"; }
+		.main-pic-aim:before				{ content: "@"; }
+		.main-pic-bang:before				{ content: "!"; }
+		
+		/* Circle Pic Heydings */
+		
+		.circle-pic-man:before			{ content: "A"; }
+		.circle-pic-tape:before			{ content: "B"; }
+		.circle-pic-cogwheel:before		{ content: "C"; }
+		.circle-pic-page:before			{ content: "D"; }
+		.circle-pic-letter:before		{ content: "E"; }
+		.circle-pic-box:before			{ content: "F"; }
+		.circle-pic-tools:before		{ content: "G"; }
+		.circle-pic-home:before			{ content: "H"; }
+		.circle-pic-picture:before		{ content: "I"; }
+		.circle-pic-list:before			{ content: "J"; }
+		.circle-pic-key:before			{ content: "K"; }
+		.circle-pic-lock:before			{ content: "L"; }
+		.circle-pic-magnifier:before	{ content: "M"; }
+		.circle-pic-compass:before		{ content: "N"; }
+		.circle-pic-mark:before			{ content: "O"; }
+		.circle-pic-location:before		{ content: "P"; }
+		.circle-pic-question:before		{ content: "Q"; }
+		.circle-pic-rainbow:before		{ content: "R"; }
+		.circle-pic-basket:before		{ content: "S"; }
+		.circle-pic-time:before			{ content: "T"; }
+		.circle-pic-calc:before			{ content: "U"; }
+		.circle-pic-cinema:before		{ content: "V"; }
+		.circle-pic-balance:before		{ content: "W"; }
+		.circle-pic-close:before		{ content: "X"; }
+		.circle-pic-doc:before			{ content: "Y"; }
+		.circle-pic-zip:before			{ content: "Z"; }
+		
+		.circle-pic-chain:before		{ content: "a"; }
+		.circle-pic-thought:before		{ content: "b"; }
+		.circle-pic-calendar:before		{ content: "c"; }
+		.circle-pic-down:before			{ content: "d"; }
+		.circle-pic-out:before			{ content: "e"; }
+		.circle-pic-flag:before			{ content: "f"; }
+		.circle-pic-hierarchy:before	{ content: "g"; }
+		.circle-pic-heart:before		{ content: "h"; }
+		.circle-pic-inform:before		{ content: "i"; }
+		.circle-pic-build:before		{ content: "k"; }
+		.circle-pic-lamp:before			{ content: "l"; }
+		.circle-pic-speaker:before		{ content: "m"; }
+		.circle-pic-navigator:before	{ content: "n"; }
+		.circle-pic-observ:before		{ content: "o"; }
+		.circle-pic-print:before		{ content: "p"; }
+		.circle-pic-consult:before		{ content: "q"; }
+		.circle-pic-zipper:before		{ content: "r"; }
+		.circle-pic-star:before			{ content: "s"; }
+		.circle-pic-label:before		{ content: "t"; }
+		.circle-pic-up:before			{ content: "u"; }
+		.circle-pic-chart:before		{ content: "v"; }
+		.circle-pic-write:before		{ content: "w"; }
+		.circle-pic-smile:before		{ content: "y"; }
+		
+		.circle-pic-pie:before			{ content: "1"; }
+		.circle-pic-unlike:before		{ content: "2"; }
+		.circle-pic-net:before			{ content: "3"; }
+		.circle-pic-float:before		{ content: "4"; }
+		.circle-pic-archive:before		{ content: "5"; }
+		.circle-pic-like:before			{ content: "8"; }
+		.circle-pic-plus:before			{ content: "+"; }
+		.circle-pic-minus:before		{ content: "-"; }
+		.circle-pic-asterisk:before		{ content: "*"; }
+		.circle-pic-aim:before			{ content: "@"; }
+		.circle-pic-bang:before			{ content: "!"; }
+		
+		.circle-pic-picture				{ line-height: 1.2; }
+		.circle-pic-lock				{ line-height: 1.6; }
+		.circle-pic-basket				{ line-height: 1.4; }
+		.circle-pic-time				{ line-height: 1.65; }
+		.circle-pic-doc					{ line-height: 1.5; }
+		.circle-pic-hierarchy			{ line-height: 1.5; }
+		.circle-pic-star				{ line-height: 1.5; }
+		.circle-pic-net					{ line-height: 1.5; }
+		
+		/* Font Size headings with icons */
+		
+		h4 [class^="main-pic-"],
+		h4 [class*=" main-pic-"] { 
+			margin-right: 5px;
+			font-size: 45px; 
+		}
+		
+		h5 [class^="main-pic-"],
+		h5 [class*=" main-pic-"] { 
+			margin-right: 5px;
+			font-size: 39px; 
+		}
+		
+		h6 [class^="main-pic-"],
+		h6 [class*=" main-pic-"] { 
+			margin-right: 5px;
+			font-size: 33px; 
+		}
+		
+		h4 [class^="web-pic-"],
+		h4 [class*="web-pic-"] { 
+			margin-right: 5px;
+			font-size: 35px;
+		}
+		
+		h5 [class^="web-pic-"],
+		h5 [class*="web-pic-"] { 
+			margin-right: 5px;
+			font-size: 29px;
+		}
+		
+		h6 [class^="web-pic-"],
+		h6 [class*="web-pic-"] { 
+			margin-right: 5px;
+			font-size: 23px;
+		}
