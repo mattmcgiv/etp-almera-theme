@@ -224,11 +224,13 @@
                     speed = 500,
                     grid = jQuery('div.grid'),
                     imgs = jQuery('div.scroll-box');
+            
+            /*mmm
             //Init touch swipe
             imgs.swipe({
                 triggerOnTouchEnd: true,
                 allowPageScroll: "vertical"
-            });
+            });*/
 
             function previousImage()
             {
@@ -1680,12 +1682,12 @@
         
         
 
-        if ($('.single-image').length) {
+        /*mmmif ($('.single-image').length) {
             
             
 
             if (Modernizr.touch) {
-                $('.single-image').on('click', touchHandler);             
+              $('.single-image').on('click', touchHandler);             
             }
 
             // Single Image
@@ -1762,7 +1764,7 @@
                 $(this).append('<span class="curtain"></span>');
             });
         }
-
+*/
     };
 
     /* end Fancybox */

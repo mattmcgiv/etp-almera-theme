@@ -191,6 +191,8 @@ function tmm_theme_wp_head() {
     wp_enqueue_script('jquery');
     wp_enqueue_script('thememakers_js', TMM_THEME_URI . '/js/thememakers.js', array('jquery'));
     wp_enqueue_script('modernizr', TMM_THEME_URI . '/js/jquery.modernizr.js', array('jquery'));
+    wp_enqueue_script('fastclick', TMM_THEME_URI . '/js/fastclick.js', array());
+    
 }
 
 /* ---------------------------------------------------------------------- */
